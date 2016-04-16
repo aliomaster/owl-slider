@@ -1,15 +1,16 @@
 # Owl Slider
 
-##### include two CSS files into your HTML head:
+##### include CSS into your HTML head:
 
 ```html
-<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
 ```
 
 ##### Include jQuery and owl.carousel.min.js into the footer.
 
 ```html
-<script src="js/owl.carousel.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
 ```
 
 ##### Create the element in your HTML:
