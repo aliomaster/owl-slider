@@ -79,4 +79,4 @@
 	});
 ```
 
-http://www.owlcarousel.owlgraphic.com/docs/api-options.html
+https://owlcarousel2.github.io/OwlCarousel2/
